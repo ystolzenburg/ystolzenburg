@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ystolzenburg
-- 👀 I’m interested in ML and App Development.
-- 🌱 I’m currently learning Swift and SwiftUI.
+- 👀 I’m interested in App Development.
+- 🌱 I’m currently learning XAML and C#.
 
 <!---
 ystolzenburg/ystolzenburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
